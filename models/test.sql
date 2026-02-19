@@ -1,0 +1,1 @@
+SELECT * FROM {{ ref('my_fourth_dbt_model') }}
